@@ -1,0 +1,1 @@
+['buying=high', 'buying=low', 'buying=med', 'buying=vhigh', 'doors=2', 'doors=3', 'doors=4', 'doors=5more', 'lug_boot=big', 'lug_boot=med', 'lug_boot=small', 'maint=high', 'maint=low', 'maint=med', 'maint=vhigh', 'persons=2', 'persons=4', 'persons=more', 'safety=high', 'safety=low', 'safety=med']

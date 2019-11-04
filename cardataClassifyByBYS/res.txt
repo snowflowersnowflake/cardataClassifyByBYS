@@ -1,0 +1,10 @@
+  buying  maint doors persons lug_boot safety  class
+0  vhigh  vhigh     2       2    small    low  unacc
+1  vhigh  vhigh     2       2    small    med  unacc
+2  vhigh  vhigh     2       2    small   high  unacc
+3  vhigh  vhigh     2       2      med    low  unacc
+4  vhigh  vhigh     2       2      med    med  unacc
+(1728, 6)
+(1728,)
+['acc' 'good' 'unacc' 'vgood']
+GaussianNB, correct prediction num: 1387, accuracy: 80.27%

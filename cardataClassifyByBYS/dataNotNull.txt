@@ -1,0 +1,8 @@
+buying      True
+maint       True
+doors       True
+persons     True
+lug_boot    True
+safety      True
+class       True
+dtype: bool
